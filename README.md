@@ -1,6 +1,6 @@
 # <p align="center"> ![spinny](https://www.roleplayerguild.com/img/spinner.gif) Duskhaven-WA-UI-Import ![spinny](https://www.roleplayerguild.com/img/spinner.gif) </p>
 
-## <p align="center"> Table of Contents </p>
+## Table of Contents
 
 $${\color{orange} If \space you \space want \space to \space use \space the \space Micro \space Bar \space or \space the \space Unit \space Frame \space imports \space then \space you \space must \space download \space the \space MoveAnything \space addon}$$
 
